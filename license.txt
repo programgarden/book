@@ -1,4 +1,4 @@
-    Library name: programgarden_auto_stock
+    Library name: book
     Copyright (C) 2019-05-01, Yong-Joon Jang
     Contact: stockisgame@gmail.com
 
