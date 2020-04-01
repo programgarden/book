@@ -1,0 +1,9 @@
+﻿    Library name: programgarden_coding
+    Copyright (C) 2019-05-01, Yong-Joon Jang
+    Contact: stockisgame@gmail.com
+
+    본 교육용 코드, 영상자료, 이미지자료는 Free software license 기준을 따르지 않습니다.
+    그러므로 무단배포 및 상업적 이용을 금지합니다.
+    그리고 수정배포 및 상업적 이용으로는 저작권자의 허가가 필요합니다.
+
+    라이브러리를 제공받으면 위 라이선스에 동의됩니다.
