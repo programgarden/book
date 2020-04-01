@@ -1,5 +1,5 @@
 # book
-서적 : 24시간 운영 가능한 주식투자 시스템 구축하기 [5월 출시 예정]
+서적 : 손가락 하나 까딱하지 않는 주식 거래 시스템 구축, 파이썬을 이용한 데이터 수집과 차트 분석, 매매 자동화까지 [5월 출시 예정]
 
 무료 강의영상 : https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS
 
