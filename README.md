@@ -3,4 +3,4 @@
 
 무료 강의영상 : https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS
 
-무료 강의 영상에 없는 내용이 서적에 많이 포함되어 있습니다. 학습에 참고 바랍니다.
+※ 서적에는 무료 강의 영상에 없는 내용이 많이 포함되어 있습니다.
