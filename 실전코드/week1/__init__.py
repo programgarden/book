@@ -1,5 +1,7 @@
-from kiwoom.kiwoom import *
 import sys
+sys.path.append("C:/Users/USER/PycharmProjects/week1/")
+
+from kiwoom.kiwoom import *
 from PyQt5.QtWidgets import *
 
 class Main():
