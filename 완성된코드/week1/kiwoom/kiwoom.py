@@ -533,9 +533,6 @@ class Kiwoom(QAxWidget):
 
             cnt += 1
 
-        self.logging.logger.debug(self.portfolio_stock_dict)
-
-
 
     # 실시간 데이터 얻어오기
     def realdata_slot(self, sCode, sRealType, sRealData):
@@ -557,7 +554,7 @@ class Kiwoom(QAxWidget):
                 self.logging.logger.debug("3시30분 장 종료")
 
                 for code in self.portfolio_stock_dict.keys():
-                    self.dynamicCall("SetRealRemove(String, String)", self.portfolio_stock_dict[code]['스크린번호'], code)
+                    self.dynamicCall("SetRealRemove(QString, QString)", self.portfolio_stock_dict[code]['스크린번호'], code)
 
                 QTest.qWait(5000)
 
