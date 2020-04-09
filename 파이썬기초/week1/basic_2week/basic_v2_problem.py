@@ -1,4 +1,4 @@
-#문제2-1
+print("\n\n========== 문제 3 ==========")
 kakao_price = 1000
 kiwoom_price = 500
 
@@ -13,8 +13,10 @@ elif kakao_price < kiwoom_price:
 elif kakao_price == kiwoom_price:
     print("키움과 카카오가 같다")
 
-# 문제2-2
+
+print("\n\n========== 문제 4 ==========")
 for i in range(1, 10):
     for j in range(1, 10):
         result = i * j
         print("%s x %s = %s" % (i, j, result))
+

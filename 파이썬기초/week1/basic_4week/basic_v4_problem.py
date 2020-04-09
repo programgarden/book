@@ -1,9 +1,7 @@
-#########################################
-#문제 4-1
+print("\n\n========== 문제 8 ==========")
 class Condition():
     def sell_filtering(self, my_dict):
         for key in my_dict.keys():
-
             if 5000 >= my_dict[key]:
                 print("종목 %s, 가격 %s" % (key, my_dict[key]))
 
@@ -15,10 +13,8 @@ class Kiwoom():
         condition.sell_filtering(self.my_dict)
 
 Kiwoom()
-#########################################
 
-#########################################
-#문제 4-2
+print("\n\n========== 문제 9 ==========")
 class Condition():
     def sell_filtering(self, my_dict):
         for key in my_dict.keys():
@@ -35,12 +31,10 @@ class Condition():
 
 class Kiwoom():
     def __init__(self):
-        self.my_dict = {'네이버':{'현재가':3000, '보유량':100}, '애플':{'현재가':10000, '보유량':200},  '다음':{'현재가':4000, '보유량':50}, '넷플릭스':{'현재가':7000, '보유량':200}, '구글':{'현재가':13000, '보유량':30}}
+        self.my_dict = {'네이버':{'현재가':3000, '보유량':100}, '애플':{'현재가':10000, '보유량':200}, '다음':{'현재가':4000, '보유량':50}, '넷플릭스':{'현재가':7000, '보유량':200}, '구글':{'현재가':13000, '보유량':30}}
 
         condition = Condition()
         result = condition.sell_filtering(self.my_dict)
         print(result)
 
-
 Kiwoom()
-#########################################

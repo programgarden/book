@@ -1,13 +1,13 @@
-# 문제3-1
+print("\n\n========== 문제 5 ==========")
 a_dict = {"키움증권" : 5000, "카카오" : 3000, "네이버" : 2000}
 a_plus = 0
 for val in a_dict.keys():
-    a_plus = a_plus + a_dict[val]     # a_plus += a_dict[val] 형태와 같다
+    a_plus = a_plus + a_dict[val] # a_plus += a_dict[val] 형태와 같다
     print("종목 : %s, 가격: %s " % (val, a_dict[val]))
     print("더한값 %s " % a_plus)
 
 
-#문제3-2
+print("\n\n========== 문제 6 ==========")
 a_dict = {"키움증권": 5000, "카카오": 3000, "네이버": 2000}
 my_account = 111000
 for val in a_dict.keys():
@@ -21,7 +21,7 @@ for val in a_dict.keys():
 print("남은 금액 : %s " % my_account)
 
 
-#문제3-3
+print("\n\n========== 문제 7 ==========")
 a_dict = {"키움증권" : 5000, "카카오" : 3000, "네이버" : 2000}
 ee_bool = True
 while ee_bool:
