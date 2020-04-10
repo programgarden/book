@@ -1,6 +1,6 @@
 # book
 ### 교재 정보 [5월 출시 예정]
-[![주식 거래 시스템 구축](./images/banner.png)](http://wikibook.co.kr/pystock/)
+[![주식 거래 시스템 구축](images/banner_1.png)](http://wikibook.co.kr/pystock/)
 
 무료 강의 영상에 없는 내용이 서적에 많이 포함되어 있습니다.  
 대표적으로 메세지 받는 방법과 HTS의 조건검색식을 파이썬과 연동하는 방법  
