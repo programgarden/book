@@ -1,10 +1,16 @@
 # book
 ### 교재 정보 [5월 출시 예정]
-제목: 손가락 하나 까딱하지 않는 주식 거래 시스템 구축[파이썬을 이용한 데이터 수집과 차트 분석, 매매 자동화까지]
-
-무료 강의영상 : https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS
+[![주식 거래 시스템 구축](./images/banner.png)](http://wikibook.co.kr/pystock/)
 
 무료 강의 영상에 없는 내용이 서적에 많이 포함되어 있습니다.  
 대표적으로 메세지 받는 방법과 HTS의 조건검색식을 파이썬과 연동하는 방법  
 그리고 데이터 관리하는 커스텀 로그 구축입니다.  
 그 외에도 폭 넓은 내용들 책에서 볼 수 있습니다.  
+<br><br>
+
+### 무료영상
+
+
+[![프로그램 동산](https://img.youtube.com/vi/8D8XhhVGruM/0.jpg)](https://youtu.be/8D8XhhVGruM=0s)
+
+https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS
