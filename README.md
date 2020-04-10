@@ -16,6 +16,6 @@ https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS
 <br><br><br>
 ### 네이버 카페 커뮤니티
 
-수강생들 간의 금융 프로그램 의사 소통을 위한 카페입니다.<br>
+수강생들의 금융 프로그램 의사 소통을 위한 카페입니다.<br>
 그리고 운영진들의 금융과 프로그램에 관한 글들을 볼 수 있습니다.
 https://cafe.naver.com/programgarden
