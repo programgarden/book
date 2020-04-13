@@ -460,6 +460,8 @@ class Kiwoom(QAxWidget):
 
             cnt += 1
 
+        print(self.portfolio_stock_dict)
+
     def realdata_slot(self, sCode, sRealType, sRealData):
         if sRealType == "장시작시간":
             fid = self.realType.REALTYPE[sRealType]['장운영구분'] # (0:장시작전, 2:장종료전(20분), 3:장시작, 4,8:장종료(30분), 9:장마감)

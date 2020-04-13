@@ -436,3 +436,5 @@ class Kiwoom(QAxWidget):
                 self.portfolio_stock_dict.update({code: {"스크린번호": str(self.screen_real_stock), "주문용스크린번호": str(self.screen_meme_stock)}})
 
             cnt += 1
+
+        print(self.portfolio_stock_dict)
