@@ -91,4 +91,4 @@ class Kiwoom(QAxWidget):
             self.stop_screen_cancel(self.screen_my_info)
 
     def stop_screen_cancel(self, sScrNo=None):
-        self.dynamicCall("DisconnectRealData(String)", sScrNo) # 스크린 번호 연결 끊기
+        self.dynamicCall("DisconnectRealData(QString)", sScrNo) # 스크린 번호 연결 끊기

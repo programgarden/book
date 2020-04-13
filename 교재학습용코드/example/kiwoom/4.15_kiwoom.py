@@ -93,4 +93,4 @@ class Kiwoom(QAxWidget):
         elif sRQName == "계좌평가잔고내역요청":
 
     def stop_screen_cancel(self, sScrNo=None):
-        self.dynamicCall("DisconnectRealData(String)", sScrNo) # 스크린 번호 연결 끊기
+        self.dynamicCall("DisconnectRealData(QString)", sScrNo) # 스크린 번호 연결 끊기
