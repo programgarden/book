@@ -12,7 +12,9 @@
 [![인터파크](images/interpark.png)](http://inpk.kr/r5L3)
 &nbsp;&nbsp;
 [![교보문고](images/kyobo.png)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392024&orderClick=LAG&Kc=)
-[![yes24](images/yes24.png)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392024&orderClick=LAG&Kc=)
+<br><br>
+[![yes24](images/yes24.png)](http://www.yes24.com/Product/Goods/89999945)
+[![반디앤루니스](images/bandi.png)](http://www.bandinlunis.com/front/product/detailProduct.do?prodId=4332846)
 
 
 
