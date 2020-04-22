@@ -20,12 +20,8 @@
 <br><br>
 
 ### 해외선물 초단타 시스템 구축 온라인 강의
-<div style="padding:56.25% 0 0 0;position:relative;">
-<iframe src="https://player.vimeo.com/video/409907482?color=ffffff" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-<script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/409907482">해외선물 초단타 프로그램 구축하기</a> from <a href="https://vimeo.com/programgarden">프로그램 동산</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WDh5OF0OIn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![해외선물초단타](images/future.png)](https://vimeo.com/ondemand/programgarden)
+
 
 <br><br>
 
