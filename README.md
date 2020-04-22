@@ -25,7 +25,7 @@
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/409907482">해외선물 초단타 프로그램 구축하기</a> from <a href="https://vimeo.com/programgarden">프로그램 동산</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WDh5OF0OIn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
 
