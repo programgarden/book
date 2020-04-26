@@ -19,20 +19,26 @@
 
 <br><br>
 
+### 네이버 카페 커뮤니티
+
+>수강생들의 금융 프로그램 공부를 위한 커뮤니티 카페입니다.<br>
+교재 내용에 대한 질의 응답과 추가 학습은 카페에서 가능합니다.<br>
+그리고 운영진들의 금융과 프로그램에 관한 글들을 볼 수 있습니다.<br>
+https://cafe.naver.com/programgarden
+
+<br><br>
+
 ### 해외선물 초단타 시스템 구축 온라인 강의
+>이벤트 중 수강료 할인 : ~~490,000~~ → 392,000 
+>
 [![해외선물초단타](images/future.png)](https://vimeo.com/ondemand/programgarden)
 
 
 <br><br>
 
-### 무료영상
+### 교재 학습용 영상
 
 [![프로그램 동산](https://img.youtube.com/vi/8D8XhhVGruM/0.jpg)](https://youtu.be/8D8XhhVGruM=0s)
 
 https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS
 <br><br><br>
-### 네이버 카페 커뮤니티
-
-수강생들의 금융 프로그램 의사 소통을 위한 카페입니다.<br>
-그리고 운영진들의 금융과 프로그램에 관한 글들을 볼 수 있습니다.<br>
-https://cafe.naver.com/programgarden
