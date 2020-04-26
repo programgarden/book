@@ -29,7 +29,7 @@ https://cafe.naver.com/programgarden
 <br><br>
 
 ### 해외선물 초단타 시스템 구축 온라인 강의
->이벤트 중 수강료 할인 : ~~490,000~~ → 392,000 
+>이벤트 중 수강료 할인 : ~~490,000~~ → **392,000** 
 >
 [![해외선물초단타](images/future.png)](https://vimeo.com/ondemand/programgarden)
 
