@@ -5,7 +5,7 @@
 기존 방식은 다이렉트로 토큰을 생성하는 거였지만 이제는 불가능합니다. 이전에 생성한 사용자에게는 영향이 없지만, 5월6일 이후로 슬랙 토큰을 생성하려는 분들은 기존 방식으로 불가능 합니다.
 <br><br>그래서 **교재 281페이지 ~ 285페이지**까지의 내용을 아래 링크에 업데이트된 내용으로 학습하면 됩니다.
 
-슬랙 토큰 받는 새로운 방법 ▶ https://cafe.naver.com/programgarden/102
+슬랙 토큰 받는 새로운 방법 ▶ [https://cafe.naver.com/programgarden/102][https://cafe.naver.com/programgarden/102]
 
 <br>
 <br>
@@ -53,3 +53,6 @@ https://cafe.naver.com/programgarden
 
 https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS
 <br><br><br>
+
+
+[https://cafe.naver.com/programgarden/102]: https://cafe.naver.com/programgarden/102
