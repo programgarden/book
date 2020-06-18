@@ -28,6 +28,16 @@
 &nbsp;&nbsp;
 [![반디앤루니스](images/bandi.png)](http://www.bandinlunis.com/front/product/detailProduct.do?prodId=4332846)
 
+<br>
+
+>교재와 유튜브 강의는 분량이 많습니다. 
+그래서 방대한 분량을 2시간으로 압축해서 설명하는 세미나를 2020년 5월 31일에 진행했습니다.
+참여하지 못한 분들을 위해서 영상으로 제작했습니다. 학생들도 들을 수 있도록 저렴한 가격에 업로드 했으니깐 많은 도움되시길 바라겠습니다.
+감사합니다.
+>
+[![주식시스템세미나](images/bookconcert.png)](https://vimeo.com/ondemand/openapi)
+
+
 <br><br>
 
 ### 네이버 카페 커뮤니티
@@ -42,7 +52,7 @@ https://cafe.naver.com/programgarden
 ### 해외선물 초단타 시스템 구축 온라인 강의
 >이벤트 중 수강료 할인 : ~~490,000~~ → **392,000** 
 >
-[![해외선물초단타](images/future.png)](https://vimeo.com/ondemand/programgarden)
+[![해외선물초단타](images/future2.png)](https://vimeo.com/ondemand/programgarden)
 
 
 <br><br>
