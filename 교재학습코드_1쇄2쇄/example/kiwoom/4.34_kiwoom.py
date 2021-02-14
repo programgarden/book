@@ -165,7 +165,7 @@ class Kiwoom(QAxWidget):
             else:
                 self.detail_account_info_event_loop.exit()
 
-        elelif sRQName == "실시간미체결요청":
+        elif sRQName == "실시간미체결요청":
             rows = self.dynamicCall("GetRepeatCnt(QString, QString)", sTrCode, sRQName)
 
             for i in range(rows):
