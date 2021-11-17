@@ -1,5 +1,15 @@
 # book
-### 교재 출판 1쇄,2쇄와 3쇄 폴더로 나눔
+
+### 프로그램 동산 후원하기
+>삶을 개선시켜 주는 유익하고 높은 수준의 <br>
+>교육들을 무료로 제공하고 있습니다. <br>
+>응원의 메세지를 부탁드립니다. 감사합니다. <br>
+>####신한은행 110-285-059020 장용준
+
+<br>
+<br>
+
+### 교재 출판 1쇄,2쇄, 3쇄, 4쇄본 폴더로 나눔
 >인쇄 버전에 맞는 예제코드를 사용해 주세요.
 
 <br>
@@ -13,6 +23,10 @@
 
 슬랙 토큰 받는 새로운 방법 ▶ [https://cafe.naver.com/programgarden/102][https://cafe.naver.com/programgarden/102]
 
+3쇄 버전을 이용중이면 아래 링크로 학습하면 됩니다.
+
+슬랙 토큰 받는 새로운 방법 ▶ https://cafe.naver.com/programgarden/1664
+
 <br>
 <br>
 
@@ -22,7 +36,7 @@
 >무료 강의 영상에 없는 내용이 서적에 많이 포함되어 있습니다.  
 대표적으로 메세지 받는 방법과 HTS의 조건검색식을 파이썬과 연동하는 방법  
 그리고 데이터 관리하는 커스텀 로그 구축입니다.  
-그 외에도 폭 넓은 내용들 책에서 볼 수 있습니다.  
+그 외에도 폭 넓은 내용들 책에서 볼 수 있고 eBook으로도 제공하고 있습니다.
 
 [![알라딘](images/aladin.png)](http://aladin.kr/p/7NIXc)
 &nbsp;&nbsp;
@@ -45,6 +59,14 @@
 
 <br><br>
 
+### 유튜브에서 더 많이 학습하기
+
+>유튜브에서 주식과 더불어 해외선물, 코인, 자율주행 등 <br>
+다양한 시스템 구축을 배울 수 있습니다.
+https://www.youtube.com/channel/UCq7fsrxP6oi6vnYgPkw92jg
+
+<br><br>
+
 ### 네이버 카페 커뮤니티
 
 >수강생들의 금융 프로그램 공부를 위한 커뮤니티 카페입니다.<br>
@@ -55,7 +77,7 @@ https://cafe.naver.com/programgarden
 
 <br><br>
 
-### 교재 학습용 영상
+### 교재 및 위 오픈소스 영상으로 배우기
 
 [![프로그램 동산](https://img.youtube.com/vi/8D8XhhVGruM/0.jpg)](https://youtu.be/8D8XhhVGruM=0s)
 
