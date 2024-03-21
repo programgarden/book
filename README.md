@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <img align="center" height="300px" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+ <img align="center" height="300px" src="https://github.com/programgarden/.github/raw/main/images/youtube-channel.png" />
 
  <br/>
  <h1 align="center">PROGRAM GARDEN</h1>
@@ -27,29 +27,53 @@
 <br>
 
 
-## 📖 교육 형태
+## 📖 초보자 추천 강의
 
 <p align="left">
+키움증권 코딩 강의는 프로그램 동산의 첫 번째 강의이자 교재였습니다. 그래서 전달력이 부족한 부분이 많고 난이도가 높습니다. 이후에 거듭된 발전으로 키움 강의보다 완강률이 3배 이상 더 높은 증권 코딩 강의들이 있습니다.
 
-<a href="https://www.youtube.com/@programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25/></a>
-<br>유튜브에서 온라인 강의 수강을 제공합니다. [@유튜브 🔗](https://www.youtube.com/@programgarden)
+그러므로 코딩을 처음 시작하신다면, 키움증권으로 구축하는 코딩은 나중에 진행하시고 추천드리는 아래 강의들부터 진행하시기 바랍니다. 빠르게 실력을 늘리고 자동화 매매를 돌리게 되시면, 돌리는 동안에 다시 키움 코딩으로 넘어와서 학습하면 훨씬 더 재미있고 수월하게 진행할 수 있습니다.
 
-<a href="https://cafe.naver.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/naver cafe-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" height=25/></a>
-<br>오프라인 강의/세미나/모임/정보/Q&A 공유하며 공부합니다. [@네이버 카페 🔗](https://cafe.naver.com/programgarden)
 
-<a href="https://github.com/programgarden" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=25/></a>
-<br>강의를 수강하는데 필요한 자료들을 얻을 수 있습니다. [@깃허브 🔗](https://github.com/programgarden)
+<details open>
+ <summary><b>주식코딩 왕초보도 마스터하기 🔗</b></summary>
+<a href="https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf" target="_blank"><img src="https://img.youtube.com/vi/8RliFhxPf4k/0.jpg" width="200px" /></a>
 
-<a href="https://programgarden.net" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/home-7AB55C.svg?&style=for-the-badge&logo=shopify&logoColor=white" height=25/></a>
-<br>프로그램 동산의 홈페이지입니다. 온라인, 오프라인 정보를 볼 수 있습니다. [@프로그램동산 🔗](https://programgarden.net)
+- **완강여부:** 완강
+- **분야:** 주식 시스템
+- **난이도:** 초보-중수
+- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenYAnPT-vVam534Med-dNMDf)  
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%EC%A3%BC%EC%8B%9D%EC%BD%94%EB%94%A9%20%EC%99%95%EC%B4%88%EB%B3%B4%EB%8F%84%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0)  
+- **내용:** 증권(주식) 시스템 구축을 위해서 증권사가 제공하는 데이터들을 세세하게 다뤄봅니다.
+기능 하나하나 살펴보기 때문에 증권 시스템을 처음 접하는 분들에게 적합한 강의입니다.
+
+</details>
+<br>
+
+<details open>
+ <summary><b>해외선물 초단타 스캘핑 자동화 매매 🔗</b></summary>
+<a href="https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5" target="_blank"><img src="https://img.youtube.com/vi/nZacmWe8h2A/0.jpg" width="200px" /></a>
+
+- **완강여부:** 완강
+- **분야:** 해외선물 시스템
+- **난이도:** 초보-중수
+- **영상제공:** [유튜브 보기 🔗](https://youtube.com/playlist?list=PLDtzZPtOGenaSBFu3e_XrDx9PTgSiljc5)
+- **예제파일:** [열람하기 🔗 (후원자만 페이지를 열 수 있습니다.)](https://github.com/programgarden/stock_sponsors/tree/main/%ED%95%B4%EC%99%B8%EC%84%A0%EB%AC%BC%20%EC%B4%88%EB%8B%A8%ED%83%80%20%EC%8A%A4%EC%BA%98%ED%95%91%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%A7%A4%EB%A7%A4)
+- **내용:** 해외선물 자동화 시스템을 만듭니다. 파이썬 왕기초부터 증권 프로그램으로 0.1초 단위로 수신되는 틱 데이터를 가지고 단방향 스캘핑 매매까지 자동화 시스템을 구축합니다.             
+
+</details>
+<br>
+
+[@더 다양한 강의들 보기 🔗](https://github.com/programgarden#%EF%B8%8F-%EC%98%A8%EB%9D%BC%EC%9D%B8online-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EA%B0%95%EC%9D%98)
+
     
 </p>
 <br>
 <br>
 
-## 📝 강의 목록
-프로그램 동산은 증권 프로그래밍에 관한 다양한 프로그래밍 강의들이 있습니다. 흥미로운 강의들로 커뮤니티 사람들과 함께 발전해 보세요.
-[강의 목록 보기 🔗](https://github.com/programgarden)
+## 🌏 네트워킹 참여하기
+프로그램 동산은 증권 프로그래밍에 관한 다양한 세미나와 모임도 진행합니다. 흥미로운 강의들로 커뮤니티 사람들과 함께 발전해 보세요.
+[네트워킹 목록 보기 🔗](https://github.com/programgarden#-%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%ED%96%89%EC%82%AC)
 <br>
 <br>
 <br>
