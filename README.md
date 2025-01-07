@@ -12,7 +12,7 @@
  <a href="https://www.youtube.com/@programgarden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programgarden" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">채널 가입하고 다채로운 금융IT 코딩 배우기<br>금융 자동화매매, 금융AI, 해외주식 시스템, 금융 서버 등...</h3>
+<h3 align="center">국내/해외 주식 시스템, 금융AI, 금융서버 그리고 다양한 IT교육 커뮤니티<br><br>채널 가입하고 초보에서 전문가 수준의 금융IT 코딩 배우기</h3>
 <p align="center">
  <a href="https://www.youtube.com/channel/UCq7fsrxP6oi6vnYgPkw92jg/join" target="_blank"><img alt="Html" src ="https://img.shields.io/badge/채널 가입하기-EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" height=40/></a>
 </p>
